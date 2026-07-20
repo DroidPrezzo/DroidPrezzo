@@ -3,7 +3,7 @@
 <div align="center">
   
   <!-- Dynamic Typing Animation -->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🤖+AI+Safety;⚡+Alignment+Researcher;🔧+ML+Research;🚀+Ai+Security)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🤖+AI+Safety;⚡+Alignment+Researcher;🔧+ML+Research;🚀+AI+Security)](https://git.io/typing-svg)
   
   <br/>
   
