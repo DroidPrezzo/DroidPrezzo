@@ -76,18 +76,7 @@ Ai safety:
 ---
 
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DroidPrezzo&show_icons=true&theme=nord&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DroidPrezzo&theme=nord&hide_border=true" />
-  
-  <br/><br/>
-  
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DroidPrezzo&layout=compact&theme=nord&hide_border=true&langs_count=8" />
-  
-</div>
 
 ---
 
